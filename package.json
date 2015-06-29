@@ -1,0 +1,20 @@
+{
+  "name": "example2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard",
+    "test-node": "tape test/*.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^2.2.0",
+    "dezalgo": "^1.0.3",
+    "tape": "^4.0.0"
+  },
+  "devDependencies": {
+    "standard": "^4.4.1"
+  }
+}
